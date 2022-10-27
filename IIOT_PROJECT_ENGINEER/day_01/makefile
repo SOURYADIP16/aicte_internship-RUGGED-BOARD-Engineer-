@@ -1,5 +1,0 @@
-01_sizeof_primitive_datatypes: 01_sizeof_primitive_datatypes.o
-	gcc 01_sizeof_primitive_datatypes.o -o 01_sizeof_primitive_datatypes
-
-01_sizeof_primitive_datatypes.o: 01_sizeof_primitive_datatypes.c
-	gcc -c 01_sizeof_primitive_datatypes.c
